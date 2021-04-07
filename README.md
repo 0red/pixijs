@@ -21,3 +21,11 @@
 * https://pixijs.io/pixi-particles-editor/#
 ---
 * https://github.com/Ezelia/EZGUI
+
+---
+* Camera system 
+* http://www.kaleadis.de/lab/04-pixi-cam/
+* https://davidfig.github.io/pixi-viewport/
+* http://scottmcdonnell.github.io/pixi-examples/index.html?s=demos&f=dragging.js&title=Dragging
+* http://labs.phaser.io/view.html?src=src%5Ccamera%5Cminimap%20camera.js
+* https://www.pixiplayground.com/#/edit/AF06lEACh_Mw3xqXmNRtp
